@@ -109,11 +109,16 @@ the tests really detect problems: switching off a trigger made the related tests
 The schema stores only a name, phone number and district. There is no column for a
 national ID number, address or photo. All code is open source (MIT licence).
 
+
 ## Team
 | Name | Student ID | Role |
 |---|---|---|
-| [Member 1] | [ID] | [e.g. Schema and normalization] |
-| [Member 2] | [ID] | [e.g. Triggers, functions and tests] |
-| [Member 3] | [ID] | [e.g. Python integration and report] |
+| Sharon Mary Ramatha Koroma | 905006201 | Schema and normalization |
+| Teammate 2 Full Name | ID number | Triggers, functions and tests |
+| Teammate 3 Full Name | ID number | Python integration and report |
+| Teammate 4 Full Name | ID number | Testing and quality |
+| Teammate 5 Full Name | ID number | GitHub and presentation |
 
-Lecturer: add as a repository collaborator.
+
+
+
